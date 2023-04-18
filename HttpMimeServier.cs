@@ -681,7 +681,7 @@ namespace UMC.Host
                                         var caption = meta["caption"];
                                         if (String.IsNullOrEmpty(caption))
                                         {
-                                            sb.AppendLine($"注册主体：\a主体未登记，请在云桌面->应用设置->安全注册中完成登记");
+                                            sb.AppendLine($"注册主体：\a主体未登记\f，请在云桌面->应用设置->安全注册中完成登记");
                                         }
                                         else
                                         {
@@ -690,9 +690,9 @@ namespace UMC.Host
                                     }
                                     else
                                     {
-                                        sb.AppendLine($"注册主体：\a主体未登记，请在云桌面->应用设置->安全注册中完成登记");
-                                        sb.AppendLine("用 户 名：\aadmin");
-                                        sb.AppendLine("密    码：\aadmin");
+                                        sb.AppendLine($"注册主体：\a主体未登记\f，请在云桌面->应用设置->安全注册中完成登记");
+                                        // sb.AppendLine("用 户 名：\aadmin");
+                                        // sb.AppendLine("密    码：\aadmin");
 
                                     }
                                 }
