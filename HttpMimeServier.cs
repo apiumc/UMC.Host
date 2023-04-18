@@ -97,7 +97,7 @@ namespace UMC.Host
                                 }
                                 catch (Exception ex)
                                 {
-                                    sb.Append($"Unix:{UnixPath} {ex.Message}");
+                                    sb.Append($"Unix:{UnixPath} {ex.Message};");
 
                                 }
                             }
@@ -140,7 +140,7 @@ namespace UMC.Host
                             }
                             catch (Exception ex)
                             {
-                                sb.Append($"Port:{port} {ex.Message}");
+                                sb.Append($"Port:{port} {ex.Message};");
                             }
                         }
                         break;

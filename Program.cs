@@ -56,13 +56,13 @@ namespace UMC.Host
 
             Console.ForegroundColor = ConsoleColor.Magenta;
             Console.WriteLine("#  [start] \t开启Apiumc网关服务");
-            Console.WriteLine("#  [http  0-9] \t重置Http服务端口");
-            Console.WriteLine("#  [https 0-9] \t重置Https服务端口");
+            Console.WriteLine("#  [http  0-9] \t重置Http默认端口");
+            Console.WriteLine("#  [https 0-9] \t重置Https默认端口");
             Console.WriteLine("#  [ssl   a-z] \t申请SSL/TLS证书");
-            Console.WriteLine("#  [stop] \t停止Apiumc网关服务");
             Console.WriteLine("#  [vpn] \t查看Web VPN服务");
             Console.WriteLine("#  [vpn start] \t开启Web VPN服务");
             Console.WriteLine("#  [vpn stop] \t停止Web VPN服务");
+            Console.WriteLine("#  [stop] \t停止Apiumc网关服务");
             Console.WriteLine("#  [exit] \t退出指令程序");
 
             Console.WriteLine();
