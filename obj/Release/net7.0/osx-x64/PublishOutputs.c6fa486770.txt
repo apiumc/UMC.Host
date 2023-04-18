@@ -1,0 +1,7 @@
+/Users/wushunming/Documents/Apps/UMC.Host.pdb
+/Users/wushunming/Documents/Apps/libSkiaSharp.dylib
+/Users/wushunming/Documents/Apps/UMC.Proxy.pdb
+/Users/wushunming/Documents/Apps/UMC.Data.pdb
+/Users/wushunming/Documents/Apps/UMC.Activities.pdb
+/Users/wushunming/Documents/Apps/UMC.pdb
+/Users/wushunming/Documents/Apps/UMC.Host

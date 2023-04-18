@@ -1,0 +1,11 @@
+/Users/wushunming/Documents/Static/UMC.Host/bin/Release/net6.0/publish/UMC.Host
+/Users/wushunming/Documents/Static/UMC.Host/bin/Release/net6.0/publish/UMC.Host.dll
+/Users/wushunming/Documents/Static/UMC.Host/bin/Release/net6.0/publish/UMC.Host.deps.json
+/Users/wushunming/Documents/Static/UMC.Host/bin/Release/net6.0/publish/UMC.Host.runtimeconfig.json
+/Users/wushunming/Documents/Static/UMC.Host/bin/Release/net6.0/publish/UMC.Host.pdb
+/Users/wushunming/Documents/Static/UMC.Host/bin/Release/net6.0/publish/UMC.Activities.dll
+/Users/wushunming/Documents/Static/UMC.Host/bin/Release/net6.0/publish/UMC.Data.dll
+/Users/wushunming/Documents/Static/UMC.Host/bin/Release/net6.0/publish/UMC.Proxy.dll
+/Users/wushunming/Documents/Static/UMC.Host/bin/Release/net6.0/publish/UMC.Data.pdb
+/Users/wushunming/Documents/Static/UMC.Host/bin/Release/net6.0/publish/UMC.Activities.pdb
+/Users/wushunming/Documents/Static/UMC.Host/bin/Release/net6.0/publish/UMC.Proxy.pdb

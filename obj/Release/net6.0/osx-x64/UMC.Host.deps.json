@@ -1,0 +1,615 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0/osx-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {},
+    ".NETCoreApp,Version=v6.0/osx-x64": {
+      "UMC.Host/1.0.0-Umbrella": {
+        "dependencies": {
+          "UMC": "1.0.26",
+          "UMC.Activities": "1.0.2",
+          "UMC.Data": "1.0.32",
+          "UMC.Proxy": "1.0.31",
+          "ZXing.Net": "0.16.9",
+          "ZXing.Net.Bindings.SkiaSharp": "0.16.13",
+          "runtimepack.Microsoft.NETCore.App.Runtime.osx-x64": "6.0.15"
+        },
+        "runtime": {
+          "UMC.Host.dll": {}
+        }
+      },
+      "runtimepack.Microsoft.NETCore.App.Runtime.osx-x64/6.0.15": {
+        "runtime": {
+          "Microsoft.Win32.Primitives.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Collections.Concurrent.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Collections.Immutable.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Collections.NonGeneric.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Collections.Specialized.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Collections.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.ComponentModel.EventBasedAsync.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.ComponentModel.Primitives.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.ComponentModel.TypeConverter.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.ComponentModel.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Console.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Data.Common.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Diagnostics.DiagnosticSource.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Diagnostics.Process.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Diagnostics.StackTrace.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Diagnostics.TraceSource.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Drawing.Primitives.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Drawing.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Formats.Asn1.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.IO.Compression.Brotli.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.IO.Compression.ZipFile.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.IO.Compression.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.IO.FileSystem.DriveInfo.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.IO.MemoryMappedFiles.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.IO.Pipes.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Linq.Expressions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Linq.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Memory.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Net.Http.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Net.Mail.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Net.NameResolution.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Net.NetworkInformation.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Net.Primitives.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Net.Quic.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Net.Requests.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Net.Security.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Net.ServicePoint.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Net.Sockets.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Net.WebHeaderCollection.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.ObjectModel.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Private.CoreLib.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Private.Uri.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Private.Xml.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Reflection.Metadata.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Runtime.InteropServices.RuntimeInformation.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Runtime.InteropServices.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Runtime.Numerics.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Runtime.Serialization.Formatters.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Runtime.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Security.Cryptography.Algorithms.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Security.Cryptography.Csp.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Security.Cryptography.Encoding.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Security.Cryptography.Primitives.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Security.Cryptography.X509Certificates.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Text.RegularExpressions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Threading.Channels.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Threading.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.Web.HttpUtility.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "System.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6.0.1523.11507"
+          },
+          "netstandard.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "6.0.1523.11507"
+          }
+        }
+      },
+      "SkiaSharp/2.88.3": {
+        "dependencies": {
+          "SkiaSharp.NativeAssets.Win32": "2.88.3",
+          "SkiaSharp.NativeAssets.macOS": "2.88.3"
+        },
+        "runtime": {
+          "lib/net6.0/SkiaSharp.dll": {
+            "assemblyVersion": "2.88.0.0",
+            "fileVersion": "2.88.3.0"
+          }
+        }
+      },
+      "SkiaSharp.NativeAssets.Linux/2.88.3": {
+        "dependencies": {
+          "SkiaSharp": "2.88.3"
+        }
+      },
+      "SkiaSharp.NativeAssets.macOS/2.88.3": {
+        "native": {
+          "runtimes/osx/native/libSkiaSharp.dylib": {
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "SkiaSharp.NativeAssets.Win32/2.88.3": {},
+      "ZXing.Net/0.16.9": {
+        "runtime": {
+          "lib/net6.0/zxing.dll": {
+            "assemblyVersion": "0.16.9.0",
+            "fileVersion": "0.16.9.0"
+          }
+        }
+      },
+      "ZXing.Net.Bindings.SkiaSharp/0.16.13": {
+        "dependencies": {
+          "SkiaSharp": "2.88.3",
+          "ZXing.Net": "0.16.9"
+        },
+        "runtime": {
+          "lib/net6.0/ZXing.SkiaSharp.dll": {
+            "assemblyVersion": "0.16.13.0",
+            "fileVersion": "0.16.13.0"
+          }
+        }
+      },
+      "UMC/1.0.26": {
+        "runtime": {
+          "UMC.dll": {}
+        }
+      },
+      "UMC.Activities/1.0.2": {
+        "dependencies": {
+          "UMC": "1.0.26",
+          "UMC.Data": "1.0.32"
+        },
+        "runtime": {
+          "UMC.Activities.dll": {}
+        }
+      },
+      "UMC.Data/1.0.32": {
+        "dependencies": {
+          "UMC": "1.0.26"
+        },
+        "runtime": {
+          "UMC.Data.dll": {}
+        }
+      },
+      "UMC.Proxy/1.0.31": {
+        "dependencies": {
+          "SkiaSharp": "2.88.3",
+          "SkiaSharp.NativeAssets.Linux": "2.88.3",
+          "UMC": "1.0.26",
+          "UMC.Data": "1.0.32"
+        },
+        "runtime": {
+          "UMC.Proxy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UMC.Host/1.0.0-Umbrella": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "runtimepack.Microsoft.NETCore.App.Runtime.osx-x64/6.0.15": {
+      "type": "runtimepack",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SkiaSharp/2.88.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GG8X3EdfwyBfwjl639UIiOVOKEdeoqDgYrz0P1MUCnefXt9cofN+AK8YB/v1+5cLMr03ieWCQdDmPqnFIzSxZw==",
+      "path": "skiasharp/2.88.3",
+      "hashPath": "skiasharp.2.88.3.nupkg.sha512"
+    },
+    "SkiaSharp.NativeAssets.Linux/2.88.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wz29evZVWRqN7WHfenFwQIgqtr8f5vHCutcl1XuhWrHTRZeaIBk7ngjhyHpjUMcQxtIEAdq34ZRvMQshsBYjqg==",
+      "path": "skiasharp.nativeassets.linux/2.88.3",
+      "hashPath": "skiasharp.nativeassets.linux.2.88.3.nupkg.sha512"
+    },
+    "SkiaSharp.NativeAssets.macOS/2.88.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CEbWAXMGFkPV3S1snBKK7jEG3+xud/9kmSAhu0BEUKKtlMdxx+Qal0U9bntQREM9QpqP5xLWZooodi8IlV8MEg==",
+      "path": "skiasharp.nativeassets.macos/2.88.3",
+      "hashPath": "skiasharp.nativeassets.macos.2.88.3.nupkg.sha512"
+    },
+    "SkiaSharp.NativeAssets.Win32/2.88.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MU4ASL8VAbTv5vSw1PoiWjjjpjtGhWtFYuJnrN4sNHFCePb2ohQij9JhSdqLLxk7RpRtWPdV93fbA53Pt+J0yw==",
+      "path": "skiasharp.nativeassets.win32/2.88.3",
+      "hashPath": "skiasharp.nativeassets.win32.2.88.3.nupkg.sha512"
+    },
+    "ZXing.Net/0.16.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7WaVMHklpT3Ye2ragqRIwlFRsb6kOk63BOGADV0fan3ulVfGLUYkDi5yNUsZS/7FVNkWbtHAlDLmu4WnHGfqvQ==",
+      "path": "zxing.net/0.16.9",
+      "hashPath": "zxing.net.0.16.9.nupkg.sha512"
+    },
+    "ZXing.Net.Bindings.SkiaSharp/0.16.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+eRgnM6utt+05IXJJjSdTgT2RvRpGjg1JbA2VhI+P3bQxR1QCsJCOJ4/csbfdvVvTfDDGkxB781UKZHk2iCYvA==",
+      "path": "zxing.net.bindings.skiasharp/0.16.13",
+      "hashPath": "zxing.net.bindings.skiasharp.0.16.13.nupkg.sha512"
+    },
+    "UMC/1.0.26": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UMC.Activities/1.0.2": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UMC.Data/1.0.32": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UMC.Proxy/1.0.31": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  },
+  "runtimes": {
+    "osx-x64": [
+      "osx",
+      "unix-x64",
+      "unix",
+      "any",
+      "base"
+    ],
+    "osx.10.10-x64": [
+      "osx.10.10",
+      "osx-x64",
+      "osx",
+      "unix-x64",
+      "unix",
+      "any",
+      "base"
+    ],
+    "osx.10.11-x64": [
+      "osx.10.11",
+      "osx.10.10-x64",
+      "osx.10.10",
+      "osx-x64",
+      "osx",
+      "unix-x64",
+      "unix",
+      "any",
+      "base"
+    ],
+    "osx.10.12-x64": [
+      "osx.10.12",
+      "osx.10.11-x64",
+      "osx.10.11",
+      "osx.10.10-x64",
+      "osx.10.10",
+      "osx-x64",
+      "osx",
+      "unix-x64",
+      "unix",
+      "any",
+      "base"
+    ],
+    "osx.10.13-x64": [
+      "osx.10.13",
+      "osx.10.12-x64",
+      "osx.10.12",
+      "osx.10.11-x64",
+      "osx.10.11",
+      "osx.10.10-x64",
+      "osx.10.10",
+      "osx-x64",
+      "osx",
+      "unix-x64",
+      "unix",
+      "any",
+      "base"
+    ],
+    "osx.10.14-x64": [
+      "osx.10.14",
+      "osx.10.13-x64",
+      "osx.10.13",
+      "osx.10.12-x64",
+      "osx.10.12",
+      "osx.10.11-x64",
+      "osx.10.11",
+      "osx.10.10-x64",
+      "osx.10.10",
+      "osx-x64",
+      "osx",
+      "unix-x64",
+      "unix",
+      "any",
+      "base"
+    ],
+    "osx.10.15-x64": [
+      "osx.10.15",
+      "osx.10.14-x64",
+      "osx.10.14",
+      "osx.10.13-x64",
+      "osx.10.13",
+      "osx.10.12-x64",
+      "osx.10.12",
+      "osx.10.11-x64",
+      "osx.10.11",
+      "osx.10.10-x64",
+      "osx.10.10",
+      "osx-x64",
+      "osx",
+      "unix-x64",
+      "unix",
+      "any",
+      "base"
+    ],
+    "osx.10.16-x64": [
+      "osx.10.16",
+      "osx.10.15-x64",
+      "osx.10.15",
+      "osx.10.14-x64",
+      "osx.10.14",
+      "osx.10.13-x64",
+      "osx.10.13",
+      "osx.10.12-x64",
+      "osx.10.12",
+      "osx.10.11-x64",
+      "osx.10.11",
+      "osx.10.10-x64",
+      "osx.10.10",
+      "osx-x64",
+      "osx",
+      "unix-x64",
+      "unix",
+      "any",
+      "base"
+    ],
+    "osx.11.0-x64": [
+      "osx.11.0",
+      "osx.10.16-x64",
+      "osx.10.16",
+      "osx.10.15-x64",
+      "osx.10.15",
+      "osx.10.14-x64",
+      "osx.10.14",
+      "osx.10.13-x64",
+      "osx.10.13",
+      "osx.10.12-x64",
+      "osx.10.12",
+      "osx.10.11-x64",
+      "osx.10.11",
+      "osx.10.10-x64",
+      "osx.10.10",
+      "osx-x64",
+      "osx",
+      "unix-x64",
+      "unix",
+      "any",
+      "base"
+    ],
+    "osx.12-x64": [
+      "osx.12",
+      "osx.11.0-x64",
+      "osx.11.0",
+      "osx.10.16-x64",
+      "osx.10.16",
+      "osx.10.15-x64",
+      "osx.10.15",
+      "osx.10.14-x64",
+      "osx.10.14",
+      "osx.10.13-x64",
+      "osx.10.13",
+      "osx.10.12-x64",
+      "osx.10.12",
+      "osx.10.11-x64",
+      "osx.10.11",
+      "osx.10.10-x64",
+      "osx.10.10",
+      "osx-x64",
+      "osx",
+      "unix-x64",
+      "unix",
+      "any",
+      "base"
+    ],
+    "osx.13-x64": [
+      "osx.13",
+      "osx.12-x64",
+      "osx.12",
+      "osx.11.0-x64",
+      "osx.11.0",
+      "osx.10.16-x64",
+      "osx.10.16",
+      "osx.10.15-x64",
+      "osx.10.15",
+      "osx.10.14-x64",
+      "osx.10.14",
+      "osx.10.13-x64",
+      "osx.10.13",
+      "osx.10.12-x64",
+      "osx.10.12",
+      "osx.10.11-x64",
+      "osx.10.11",
+      "osx.10.10-x64",
+      "osx.10.10",
+      "osx-x64",
+      "osx",
+      "unix-x64",
+      "unix",
+      "any",
+      "base"
+    ]
+  }
+}

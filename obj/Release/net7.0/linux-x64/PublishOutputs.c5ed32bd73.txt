@@ -1,0 +1,7 @@
+/Users/wushunming/Documents/Static/Builder/bin/Debug/net6.0/publish/linux-x64/UMC.Host.pdb
+/Users/wushunming/Documents/Static/Builder/bin/Debug/net6.0/publish/linux-x64/libSkiaSharp.so
+/Users/wushunming/Documents/Static/Builder/bin/Debug/net6.0/publish/linux-x64/UMC.Proxy.pdb
+/Users/wushunming/Documents/Static/Builder/bin/Debug/net6.0/publish/linux-x64/UMC.Data.pdb
+/Users/wushunming/Documents/Static/Builder/bin/Debug/net6.0/publish/linux-x64/UMC.Activities.pdb
+/Users/wushunming/Documents/Static/Builder/bin/Debug/net6.0/publish/linux-x64/UMC.pdb
+/Users/wushunming/Documents/Static/Builder/bin/Debug/net6.0/publish/linux-x64/UMC.Host

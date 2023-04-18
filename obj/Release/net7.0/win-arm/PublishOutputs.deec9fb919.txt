@@ -1,0 +1,6 @@
+/Users/wushunming/Documents/Static/Builder/bin/Debug/net6.0/publish/win-arm/UMC.Host.pdb
+/Users/wushunming/Documents/Static/Builder/bin/Debug/net6.0/publish/win-arm/UMC.Proxy.pdb
+/Users/wushunming/Documents/Static/Builder/bin/Debug/net6.0/publish/win-arm/UMC.Data.pdb
+/Users/wushunming/Documents/Static/Builder/bin/Debug/net6.0/publish/win-arm/UMC.Activities.pdb
+/Users/wushunming/Documents/Static/Builder/bin/Debug/net6.0/publish/win-arm/UMC.pdb
+/Users/wushunming/Documents/Static/Builder/bin/Debug/net6.0/publish/win-arm/UMC.Host.exe

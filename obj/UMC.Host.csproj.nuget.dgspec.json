@@ -1,0 +1,314 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/wushunming/Documents/APIUMC/UMC.Host/UMC.Host.csproj": {}
+  },
+  "projects": {
+    "/Users/wushunming/Documents/APIUMC/UMC.Activities/UMC.Activities.csproj": {
+      "version": "1.0.4",
+      "restore": {
+        "projectUniqueName": "/Users/wushunming/Documents/APIUMC/UMC.Activities/UMC.Activities.csproj",
+        "projectName": "UMC.Activities",
+        "projectPath": "/Users/wushunming/Documents/APIUMC/UMC.Activities/UMC.Activities.csproj",
+        "packagesPath": "/Users/wushunming/.nuget/packages/",
+        "outputPath": "/Users/wushunming/Documents/APIUMC/UMC.Activities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/wushunming/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/wushunming/Documents/APIUMC/UMC.Data/UMC.Data.csproj": {
+                "projectPath": "/Users/wushunming/Documents/APIUMC/UMC.Data/UMC.Data.csproj"
+              },
+              "/Users/wushunming/Documents/APIUMC/UMC/UMC.csproj": {
+                "projectPath": "/Users/wushunming/Documents/APIUMC/UMC/UMC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/wushunming/Documents/APIUMC/UMC.Data/UMC.Data.csproj": {
+      "version": "1.0.34",
+      "restore": {
+        "projectUniqueName": "/Users/wushunming/Documents/APIUMC/UMC.Data/UMC.Data.csproj",
+        "projectName": "UMC.Data",
+        "projectPath": "/Users/wushunming/Documents/APIUMC/UMC.Data/UMC.Data.csproj",
+        "packagesPath": "/Users/wushunming/.nuget/packages/",
+        "outputPath": "/Users/wushunming/Documents/APIUMC/UMC.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/wushunming/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/wushunming/Documents/APIUMC/UMC/UMC.csproj": {
+                "projectPath": "/Users/wushunming/Documents/APIUMC/UMC/UMC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/wushunming/Documents/APIUMC/UMC.Host/UMC.Host.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/wushunming/Documents/APIUMC/UMC.Host/UMC.Host.csproj",
+        "projectName": "UMC.Host",
+        "projectPath": "/Users/wushunming/Documents/APIUMC/UMC.Host/UMC.Host.csproj",
+        "packagesPath": "/Users/wushunming/.nuget/packages/",
+        "outputPath": "/Users/wushunming/Documents/APIUMC/UMC.Host/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/wushunming/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/wushunming/Documents/APIUMC/UMC.Activities/UMC.Activities.csproj": {
+                "projectPath": "/Users/wushunming/Documents/APIUMC/UMC.Activities/UMC.Activities.csproj"
+              },
+              "/Users/wushunming/Documents/APIUMC/UMC.Data/UMC.Data.csproj": {
+                "projectPath": "/Users/wushunming/Documents/APIUMC/UMC.Data/UMC.Data.csproj"
+              },
+              "/Users/wushunming/Documents/APIUMC/UMC.Proxy/UMC.Proxy.csproj": {
+                "projectPath": "/Users/wushunming/Documents/APIUMC/UMC.Proxy/UMC.Proxy.csproj"
+              },
+              "/Users/wushunming/Documents/APIUMC/UMC/UMC.csproj": {
+                "projectPath": "/Users/wushunming/Documents/APIUMC/UMC/UMC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/wushunming/Documents/APIUMC/UMC.Proxy/UMC.Proxy.csproj": {
+      "version": "1.0.34",
+      "restore": {
+        "projectUniqueName": "/Users/wushunming/Documents/APIUMC/UMC.Proxy/UMC.Proxy.csproj",
+        "projectName": "UMC.Proxy",
+        "projectPath": "/Users/wushunming/Documents/APIUMC/UMC.Proxy/UMC.Proxy.csproj",
+        "packagesPath": "/Users/wushunming/.nuget/packages/",
+        "outputPath": "/Users/wushunming/Documents/APIUMC/UMC.Proxy/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/wushunming/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/wushunming/Documents/APIUMC/UMC.Data/UMC.Data.csproj": {
+                "projectPath": "/Users/wushunming/Documents/APIUMC/UMC.Data/UMC.Data.csproj"
+              },
+              "/Users/wushunming/Documents/APIUMC/UMC/UMC.csproj": {
+                "projectPath": "/Users/wushunming/Documents/APIUMC/UMC/UMC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "SkiaSharp": {
+              "target": "Package",
+              "version": "[2.88.3, )"
+            },
+            "SkiaSharp.NativeAssets.Linux": {
+              "target": "Package",
+              "version": "[2.88.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/wushunming/Documents/APIUMC/UMC/UMC.csproj": {
+      "version": "1.0.28",
+      "restore": {
+        "projectUniqueName": "/Users/wushunming/Documents/APIUMC/UMC/UMC.csproj",
+        "projectName": "UMC",
+        "projectPath": "/Users/wushunming/Documents/APIUMC/UMC/UMC.csproj",
+        "packagesPath": "/Users/wushunming/.nuget/packages/",
+        "outputPath": "/Users/wushunming/Documents/APIUMC/UMC/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/wushunming/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+/Users/wushunming/Documents/Static/UMC.Host/obj/Release/netcoreapp3.1/osx-x64/UMC.Host.csproj.AssemblyReference.cache
+/Users/wushunming/Documents/Static/UMC.Host/obj/Release/netcoreapp3.1/osx-x64/UMC.Host.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wushunming/Documents/Static/UMC.Host/obj/Release/netcoreapp3.1/osx-x64/UMC.Host.AssemblyInfoInputs.cache
+/Users/wushunming/Documents/Static/UMC.Host/obj/Release/netcoreapp3.1/osx-x64/UMC.Host.AssemblyInfo.cs
+/Users/wushunming/Documents/Static/UMC.Host/obj/Release/netcoreapp3.1/osx-x64/UMC.Host.csproj.CoreCompileInputs.cache

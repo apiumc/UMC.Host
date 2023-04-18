@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>UMC.Host</id>
+    <version>1.0.0</version>
+    <authors>UMC.Host</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="UMC.Activities" version="1.0.3" exclude="Build,Analyzers" />
+        <dependency id="UMC.Data" version="1.0.34" exclude="Build,Analyzers" />
+        <dependency id="UMC.Proxy" version="1.0.32" exclude="Build,Analyzers" />
+        <dependency id="UMC" version="1.0.28" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/wushunming/Documents/Static/UMC.Host/bin/Debug/net7.0/UMC.Host.runtimeconfig.json" target="lib/net7.0/UMC.Host.runtimeconfig.json" />
+    <file src="/Users/wushunming/Documents/Static/UMC.Host/bin/Debug/net7.0/UMC.Host.dll" target="lib/net7.0/UMC.Host.dll" />
+  </files>
+</package>
