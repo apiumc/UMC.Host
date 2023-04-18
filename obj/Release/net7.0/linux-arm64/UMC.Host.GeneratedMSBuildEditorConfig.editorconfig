@@ -12,4 +12,4 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = UMC.Host
-build_property.ProjectDir = /Users/wushunming/Documents/Static/UMC.Host/
+build_property.ProjectDir = /Users/wushunming/Documents/APIUMC/UMC.Host/

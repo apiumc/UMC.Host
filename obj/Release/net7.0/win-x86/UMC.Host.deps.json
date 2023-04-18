@@ -9,10 +9,10 @@
     ".NETCoreApp,Version=v7.0/win-x86": {
       "UMC.Host/1.0.0-Umbrella": {
         "dependencies": {
-          "UMC": "1.0.27",
-          "UMC.Activities": "1.0.3",
-          "UMC.Data": "1.0.33",
-          "UMC.Proxy": "1.0.32",
+          "UMC": "1.0.28",
+          "UMC.Activities": "1.0.4",
+          "UMC.Data": "1.0.34",
+          "UMC.Proxy": "1.0.34",
           "runtimepack.Microsoft.NETCore.App.Runtime.win-x86": "7.0.5"
         },
         "runtime": {
@@ -264,34 +264,34 @@
           }
         }
       },
-      "UMC/1.0.27": {
+      "UMC/1.0.28": {
         "runtime": {
           "UMC.dll": {}
         }
       },
-      "UMC.Activities/1.0.3": {
+      "UMC.Activities/1.0.4": {
         "dependencies": {
-          "UMC": "1.0.27",
-          "UMC.Data": "1.0.33"
+          "UMC": "1.0.28",
+          "UMC.Data": "1.0.34"
         },
         "runtime": {
           "UMC.Activities.dll": {}
         }
       },
-      "UMC.Data/1.0.33": {
+      "UMC.Data/1.0.34": {
         "dependencies": {
-          "UMC": "1.0.27"
+          "UMC": "1.0.28"
         },
         "runtime": {
           "UMC.Data.dll": {}
         }
       },
-      "UMC.Proxy/1.0.32": {
+      "UMC.Proxy/1.0.34": {
         "dependencies": {
           "SkiaSharp": "2.88.3",
           "SkiaSharp.NativeAssets.Linux": "2.88.3",
-          "UMC": "1.0.27",
-          "UMC.Data": "1.0.33"
+          "UMC": "1.0.28",
+          "UMC.Data": "1.0.34"
         },
         "runtime": {
           "UMC.Proxy.dll": {}
@@ -338,22 +338,22 @@
       "path": "skiasharp.nativeassets.win32/2.88.3",
       "hashPath": "skiasharp.nativeassets.win32.2.88.3.nupkg.sha512"
     },
-    "UMC/1.0.27": {
+    "UMC/1.0.28": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "UMC.Activities/1.0.3": {
+    "UMC.Activities/1.0.4": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "UMC.Data/1.0.33": {
+    "UMC.Data/1.0.34": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "UMC.Proxy/1.0.32": {
+    "UMC.Proxy/1.0.34": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

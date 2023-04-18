@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "VnRzXL/eXVZ7/aC2shJ0ij61/FlfmWl5TiETVxEHs9EklXXreJQzL4IC+H/+4tgSyQf7ycpjWkQ+AkE1yXJPgw==",
+  "dgSpecHash": "Gy/rQFyHsuzmtMIEp1OSgPuEzeiB37QFCHwgZ59RnB8p907NW3qIrrWO5GChq7Mj1DsNRworlfXjbklfhvSE1Q==",
   "success": true,
   "projectFilePath": "/Users/wushunming/Documents/APIUMC/UMC.Host/UMC.Host.csproj",
   "expectedPackageFiles": [
     "/Users/wushunming/.nuget/packages/skiasharp/2.88.3/skiasharp.2.88.3.nupkg.sha512",
     "/Users/wushunming/.nuget/packages/skiasharp.nativeassets.linux/2.88.3/skiasharp.nativeassets.linux.2.88.3.nupkg.sha512",
     "/Users/wushunming/.nuget/packages/skiasharp.nativeassets.macos/2.88.3/skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
-    "/Users/wushunming/.nuget/packages/skiasharp.nativeassets.win32/2.88.3/skiasharp.nativeassets.win32.2.88.3.nupkg.sha512"
+    "/Users/wushunming/.nuget/packages/skiasharp.nativeassets.win32/2.88.3/skiasharp.nativeassets.win32.2.88.3.nupkg.sha512",
+    "/Users/wushunming/.nuget/packages/microsoft.netcore.app.runtime.win-x86/7.0.5/microsoft.netcore.app.runtime.win-x86.7.0.5.nupkg.sha512",
+    "/Users/wushunming/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x86/7.0.5/microsoft.aspnetcore.app.runtime.win-x86.7.0.5.nupkg.sha512",
+    "/Users/wushunming/.nuget/packages/microsoft.netcore.app.host.win-x86/7.0.5/microsoft.netcore.app.host.win-x86.7.0.5.nupkg.sha512"
   ],
   "logs": []
 }
